@@ -1,0 +1,20 @@
+╭══════════════════════════════════════════╮
+║                              源易网--中国源码下载站                                ║
+║                                                                                    ║
+║              源码下载:www.downcode.com  源码论坛:www.downcode.net                  ║
+║                                                                                    ║
+║                       如有转载请勿删除以上信息，谢谢合作                           ║
+╰══════════════════════════════════════════╯
+╭══════════════════════════════════════════╮
+║ 　　　　　　　　　　　　　　　　程序相关使用说明　　　　　　　　　　  　　　　　　 ║
+╰══════════════════════════════════════════╯
+
+
+
+帮YY做的,大家可能有用得着的
+
+ ● 小图随鼠标左右移动,点击加载
+ ● 上一张/下一张/第一张/最后一张
+ ● 自动切换下一张
+
+ ● QQ交流群:13454226
