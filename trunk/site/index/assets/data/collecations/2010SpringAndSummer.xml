@@ -1,62 +1,56 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<folio>
+<folio displayNum="11">
 	<image>
-		<thumbnail>./images/3s.jpg</thumbnail>
-		<pic>./images/3.jpg</pic>
+		<thumbnail>assets/img/collecations/2010SpringAndSummer/small/2010 01 19 +_0005.jpg</thumbnail>
+		<pic>assets/img/collecations/2010SpringAndSummer/big/2010 01 19 +_0005.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>./images/2s.jpg</thumbnail>
-		<pic>./images/2.jpg</pic>
+		<thumbnail>assets/img/collecations/2010SpringAndSummer/small/2010 01 19 +_0089.jpg</thumbnail>
+		<pic>assets/img/collecations/2010SpringAndSummer/big/2010 01 19 +_0089.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>./images/12s.jpg</thumbnail>
-		<pic>./images/12.jpg</pic>
+		<thumbnail>assets/img/collecations/2010SpringAndSummer/small/2010 01 19 +_0092.jpg</thumbnail>
+		<pic>assets/img/collecations/2010SpringAndSummer/big/2010 01 19 +_0092.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>./images/13s.jpg</thumbnail>
-		<pic>./images/13.jpg</pic>
+		<thumbnail>assets/img/collecations/2010SpringAndSummer/small/2010 01 19 +_0135.jpg</thumbnail>
+		<pic>assets/img/collecations/2010SpringAndSummer/big/2010 01 19 +_0135.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>./images/14s.jpg</thumbnail>
-		<pic>./images/14.jpg</pic>
+		<thumbnail>assets/img/collecations/2010SpringAndSummer/small/2010 01 19 +_0165.jpg</thumbnail>
+		<pic>assets/img/collecations/2010SpringAndSummer/big/2010 01 19 +_0165.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>./images/4s.jpg</thumbnail>
-		<pic>./images/4.jpg</pic>
+		<thumbnail>assets/img/collecations/2010SpringAndSummer/small/2010 01 19 +_0284.jpg</thumbnail>
+		<pic>assets/img/collecations/2010SpringAndSummer/big/2010 01 19 +_0284.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>./images/5s.jpg</thumbnail>
-		<pic>./images/5.jpg</pic>
+		<thumbnail>assets/img/collecations/2010SpringAndSummer/small/2010 01 19 +_0386.jpg</thumbnail>
+		<pic>assets/img/collecations/2010SpringAndSummer/big/2010 01 19 +_0386.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>./images/6s.jpg</thumbnail>
-		<pic>./images/6.jpg</pic>
+		<thumbnail>assets/img/collecations/2010SpringAndSummer/small/2010 01 19 +_0406.jpg</thumbnail>
+		<pic>assets/img/collecations/2010SpringAndSummer/big/2010 01 19 +_0406.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>./images/7s.jpg</thumbnail>
-		<pic>./images/7.jpg</pic>
+		<thumbnail>assets/img/collecations/2010SpringAndSummer/small/2010 01 19 +_0514.jpg</thumbnail>
+		<pic>assets/img/collecations/2010SpringAndSummer/big/2010 01 19 +_0514.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>./images/1s.jpg</thumbnail>
-		<pic>./images/1.jpg</pic>
-		<link>./images/1.jpg</link>
+		<thumbnail>assets/img/collecations/2010SpringAndSummer/small/2010 01 19 +_0790.jpg</thumbnail>
+		<pic>assets/img/collecations/2010SpringAndSummer/big/2010 01 19 +_0790.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>./images/8s.jpg</thumbnail>
-		<pic>./images/8.jpg</pic>
+		<thumbnail>assets/img/collecations/2010SpringAndSummer/small/2010 01 19 +_0825.jpg</thumbnail>
+		<pic>assets/img/collecations/2010SpringAndSummer/big/2010 01 19 +_0825.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>./images/9s.jpg</thumbnail>
-		<pic>./images/9.jpg</pic>
+		<thumbnail>assets/img/collecations/2010SpringAndSummer/small/2010 01 19 +_1026.jpg</thumbnail>
+		<pic>assets/img/collecations/2010SpringAndSummer/big/2010 01 19 +_1026.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>./images/10s.jpg</thumbnail>
-		<pic>./images/10.jpg</pic>
-	</image>
-	<image>
-		<thumbnail>./images/11s.jpg</thumbnail>
-		<pic>./images/11.jpg</pic>
-	</image>
-	
+		<thumbnail>assets/img/collecations/2010SpringAndSummer/small/2010 01 19 +_1106.jpg</thumbnail>
+		<pic>assets/img/collecations/2010SpringAndSummer/big/2010 01 19 +_1106.jpg</pic>
+	</image>	
 	
 </folio>
