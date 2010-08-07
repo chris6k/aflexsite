@@ -1,16 +1,4 @@
-﻿//∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷
-//FileName: 公用
-//Designer: KenZhu(http;//kenb.net)
-//UpDate:   2008/08/18
-//QQ群:     13454226
-//∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷
-System.useCodepage = true;
-//fscommand("fullscreen", "true");
-//fscommand("allowscale", "false");
-_quality = "best";//不缩放
-//∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷设置或检索用于 SWF 文件的呈现品质
-Stage.align = "TL";
-Stage.scaleMode = "noScale";
+﻿
 //∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷∷顺放倒放
 _global.rplay =function(mcname,ptype){
 	if (ptype==true){
