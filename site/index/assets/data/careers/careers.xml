@@ -3,7 +3,9 @@
 	<career>
 		<title>空间设计</title>
 		<number>1名</number>
-		<duty>负责店铺的设计和装修工程的管理</duty>
+		<duty>
+			<req>负责店铺的设计和装修工程的管理</req>
+		</duty>
 		<require>
 			<req>大专以上学历，一年以上相关工作经验</req>
 			<req>熟练使用CAD\3DMAX\LIGHTSCAPE\PHOTOSHOP 等绘图软件，对服饰类店铺装修设计有一定的了解和工作经验</req>
