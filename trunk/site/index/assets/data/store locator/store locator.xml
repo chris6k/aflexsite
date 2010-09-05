@@ -5,7 +5,43 @@
 		<name>上海莘建店</name>
 		<adress>上海市闵行区莘庄镇莘建路号</adress>
 		<tel>021-54172803</tel>
-		<pic>assets/img/store locator/store1.jpg</pic>
+		<pic>assets/img/store locator/莘建店.jpg</pic>
+		<x>0</x>
+		<y>0</y>
+	</store>
+	<store>
+		<area>上海</area>
+		<name>上海南汇店</name>
+		<adress>上海市南汇区蕙南镇人民东路3010号</adress>
+		<tel>021-68030095</tel>
+		<pic>assets/img/store locator/南汇.jpg</pic>
+		<x>0</x>
+		<y>0</y>
+	</store>
+	<store>
+		<area>上海</area>
+		<name>杨蒲宝大详</name>
+		<adress>上海市杨蒲区国宾路58号宝大详青少年用品商场一楼</adress>
+		<tel>13621723373</tel>
+		<pic>assets/img/store locator/五角宝大祥.jpg</pic>
+		<x>0</x>
+		<y>0</y>
+	</store>
+	<store>
+		<area>上海</area>
+		<name>南京路宝大详</name>
+		<adress>上海市黄蒲区南京东路685号宝大详青少年用品购物中心四楼</adress>
+		<tel>15821951590</tel>
+		<pic>assets/img/store locator/2010宝大祥.jpg</pic>
+		<x>0</x>
+		<y>0</y>
+	</store>
+	<store>
+		<area>上海</area>
+		<name>上海周浦店</name>
+		<adress>上海市南汇区周浦镇康沈路1539号</adress>
+		<tel>021-58111814</tel>
+		<pic>assets/img/store locator/周浦店.jpg</pic>
 		<x>0</x>
 		<y>0</y>
 	</store>
@@ -68,7 +104,7 @@
 		<name>温州仓后店</name>
 		<adress>温州市仓后街15号</adress>
 		<tel>0577-88231638</tel>
-		<pic>assets/img/store locator/store1.jpg</pic>
+		<pic>assets/img/store locator/仓后店.jpg</pic>
 		<x>0</x>
 		<y>0</y>
 	</store>
@@ -77,7 +113,25 @@
 		<name>温州蝉街店</name>
 		<adress>温州市蝉街35号</adress>
 		<tel>0577-88248198</tel>
-		<pic>assets/img/store locator/store1.jpg</pic>
+		<pic>assets/img/store locator/缠街店.jpg</pic>
+		<x>0</x>
+		<y>0</y>
+	</store>
+	<store>
+		<area>温州</area>
+		<name>温州登选坊店</name>
+		<adress>温州市登选坊7号</adress>
+		<tel>0577-88266663</tel>
+		<pic>assets/img/store locator/登选坊.jpg</pic>
+		<x>0</x>
+		<y>0</y>
+	</store>
+	<store>
+		<area>温州</area>
+		<name>温州温迪店</name>
+		<adress>温州市下吕蒲温迪路176号</adress>
+		<tel>0577-88662581</tel>
+		<pic>assets/img/store locator/下吕铺店.jpg</pic>
 		<x>0</x>
 		<y>0</y>
 	</store>
