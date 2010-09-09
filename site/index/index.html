@@ -24,9 +24,9 @@ body {
 <iframe id="myFrame" name="myFrame"  frameborder="0"
   style="position:absolute;background-color:transparent;border:0px;display:none;" ></iframe> 
   
-<div id="googleMap"
-  style="position:absolute;background-color:transparent;border:0px;width:236px;height:208px;display:none;" >
-</div>
+<iframe id="googleMap" name="googleMap" frameborder="0"
+  style="position:absolute;background-color:transparent;border:0px;display:none;" src="map/googleMap.html">
+</iframe>
   
 <div id="flashcontent"></div>
 
@@ -40,16 +40,6 @@ body {
 	so.addParam("wmode","transparent");
     so.addParam('allowScriptAccess', 'always');
     so.write('flashcontent');
-    
-    var go = new SWFObject('map/googleMap.swf', 'GMAP', '236', '208', "8",'#FFFFFF');
-	go.addParam('menu', 'false');
-	go.addParam('scale', 'noscale');
-	go.addParam('salign', 'top');
-	go.addParam('align', 'middle');
-	go.addParam("wmode","transparent");
-    go.addParam('allowScriptAccess', 'always');
-    go.write('googleMap');
-
     
      function $(id) {
         return document.getElementById(id);
@@ -114,10 +104,16 @@ body {
       
       function callFlashFunc(str)
 	  {
-	  var obj = $("GMAP");
-	  if(obj){
-	  obj.doGeocode(str);
-	  }
+	  
+	  try{
+          
+          var frame = frames[1];
+          var obj = frame.document.getElementById("GMAP");
+          alert(obj);
+          if(obj){
+          obj.doGeocode(str);
+          }
+	  }catch(e){alert(e);}
 	  }
 
 </script>
