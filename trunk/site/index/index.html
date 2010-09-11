@@ -3,12 +3,13 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>SAPLEN</title>
 <script type="text/javascript" src="js/swfobject.js"></script>
+<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
 <style type="text/css"> 
 /* hide from ie on mac \*/
 html {
 	height: 100%;
 }
-flashcontent {
+#flashcontent {
 	height: 100%;
 }
 /* end hide */
@@ -24,14 +25,25 @@ body {
 <iframe id="myFrame" name="myFrame"  frameborder="0"
   style="position:absolute;background-color:transparent;border:0px;display:none;" ></iframe> 
   
-<iframe id="googleMap" name="googleMap" frameborder="0"
-  style="position:absolute;background-color:transparent;border:0px;display:none;" src="map/googleMap.html">
-</iframe>
+<div id="googleMap"
+  style="position:absolute;background-color:transparent;border:0px;width:236px;height:208px;display:none;" >
+</div>
+
   
 <div id="flashcontent"></div>
 
 
-<script>			
+<script>
+	var iframeSrcLeft = 0;
+	var iframeSrcTop = 0;
+	var iframeSrcWidth = 0;
+	var iframeSrcHeight = 0;
+
+	var gmapSrcLeft = 0;
+	var gmapSrcTop = 0;
+	var gmapSrcWidth = 0;
+	var gmapSrcHeight = 0;
+
 	var so = new SWFObject('index.swf', 'Flash1', '100%', '100%', "8",'#FFFFFF');
 	so.addParam('menu', 'false');
 	so.addParam('scale', 'exactfit');//exactfit
@@ -41,11 +53,16 @@ body {
     so.addParam('allowScriptAccess', 'always');
     so.write('flashcontent');
     
-     function $(id) {
-        return document.getElementById(id);
-     }
-     
-     var defaultWidth = 1003;
+    var go = new SWFObject('map/googleMap.swf', 'GMAP', '236', '208', "8",'#FFFFFF');
+	go.addParam('menu', 'false');
+	go.addParam('scale', 'noscale');
+	go.addParam('salign', 'top');
+	go.addParam('align', 'middle');
+	go.addParam("wmode","transparent");
+    go.addParam('allowScriptAccess', 'always');
+    go.write('googleMap');
+
+         var defaultWidth = 1003;
      var defaultHeight = 613;
       
      function adjustOffset(){
@@ -56,41 +73,76 @@ body {
         offset.height = currentHeight/offset.height;
         return offset;
      }
+
+	 function initIFrame(x,y,w,h) {
+		iframeSrcLeft = x;
+		iframeSrcTop = y;
+		iframeSrcWidth = w;
+		iframeSrcHeight = h;
+	 }
+
+	 function resizeIFrame() {
+	     var frameRef=$("#myFrame");
+		 var offset = adjustOffset();
+		 frameRef.css('left', (iframeSrcLeft * offset.width));  
+         frameRef.css('top', (iframeSrcTop * offset.height));  
+         frameRef.css('width', (iframeSrcWidth * offset.width));  
+         frameRef.css('height', (iframeSrcHeight * offset.height));  
+	 }
       
      function moveIFrame(x,y,w,h) {  
          //alert(x + "," + y + ":" + w + "," + h);
-         var frameRef=$("myFrame");
+		 initIFrame(x,y,w,h);
+         var frameRef=$("#myFrame");
          var offset = adjustOffset();
-         frameRef.style.left= (x * offset.width);  
-         frameRef.style.top= (y * offset.height);  
-         frameRef.width= (w * offset.width);  
-         frameRef.height= (h * offset.height);  
-         frameRef.style.display="";
+         frameRef.css('left', (x * offset.width));  
+         frameRef.css('top', (y * offset.height));  
+         frameRef.css('width', (w * offset.width));  
+         frameRef.css('height', (h * offset.height)); 
+         frameRef.show();
      }  
        
      function loadIFrame(url){  
-         var myFrame = $("myFrame");
-         myFrame.src=url;
+         var myFrame = $("#myFrame");
+         myFrame.attr('src',url);
      } 
       
      function hideIFrame(){
-         var myFrame = $("myFrame");
-         myFrame.style.display="none";
-         myFrame.src="";
+         var myFrame = $("#myFrame");
+         myFrame.hide();
+         myFrame.attr('src',"");
      }
-           
+     
+	 function initMap(x,y,w,h) {
+		gmapSrcLeft = x;
+		gmapSrcTop = y;
+		gmapSrcWidth = w;
+		gmapSrcHeight = h;
+	 }
+		   
      function moveMap(x,y,w,h) {
-         var frameRef=$("googleMap"); 
-         frameRef.style.left=x;  
-         frameRef.style.top=y;  
-         frameRef.width=w;  
-         frameRef.height=h;  
-         frameRef.style.display="";
+		 initMap(x,y,w,h);
+         var frameRef=$("#googleMap"); 
+		 var offset = adjustOffset();
+         frameRef.css('left', (x * offset.width));  
+         frameRef.css('top', (y * offset.height));  
+         frameRef.css('width', (w * offset.width));  
+         frameRef.css('height', (h * offset.height));  
+         frameRef.show();
       }
+
+	  function resizeGMAP() {
+	     var frameRef=$("#googleMap"); 
+		 var offset = adjustOffset();
+		 frameRef.css('left', (gmapSrcLeft * offset.width));  
+         frameRef.css('top', (gmapSrcTop * offset.height));  
+         frameRef.css('width', (gmapSrcWidth * offset.width));  
+         frameRef.css('height', (gmapSrcHeight * offset.height));  
+	 }
       
       function hideMap(){
-        var myFrame = $("googleMap");
-        myFrame.style.display="none";
+        var myFrame = $("#googleMap");
+        myFrame.hide();
       }
       
       function movieTest(info){
@@ -104,18 +156,18 @@ body {
       
       function callFlashFunc(str)
 	  {
-	  
-	  try{
-          
-          var frame = frames[1];
-          var obj = frame.document.getElementById("GMAP");
-          alert(obj);
-          if(obj){
-          obj.doGeocode(str);
-          }
-	  }catch(e){alert(e);}
+	  var obj = $("GMAP");
+	  if(obj){
+	  obj.doGeocode(str);
 	  }
-
+	  $(window).resize(function(){
+			try{
+			resizeIFrame();
+			resizeGMAP();
+			} catch (e) {
+				alert(e);
+			}
+	  });
 </script>
 </body>
 </html>
