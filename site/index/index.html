@@ -53,16 +53,16 @@ body {
     so.addParam('allowScriptAccess', 'always');
     so.write('flashcontent');
     
-    var go = new SWFObject('map/googleMap.swf', 'GMAP', '236', '208', "8",'#FFFFFF');
+    var go = new SWFObject('map/googleMap.swf', 'GMAP', '100%', '100%', "8",'#FFFFFF');
 	go.addParam('menu', 'false');
-	go.addParam('scale', 'noscale');
+	go.addParam('scale', 'exactfit');
 	go.addParam('salign', 'top');
 	go.addParam('align', 'middle');
 	go.addParam("wmode","transparent");
     go.addParam('allowScriptAccess', 'always');
     go.write('googleMap');
 
-         var defaultWidth = 1003;
+     var defaultWidth = 1003;
      var defaultHeight = 613;
       
      function adjustOffset(){
@@ -157,15 +157,15 @@ body {
       function callFlashFunc(str)
 	  {
 	  var obj = $("GMAP");
-	  if(obj){
 	  obj.doGeocode(str);
 	  }
+
 	  $(window).resize(function(){
 			try{
 			resizeIFrame();
 			resizeGMAP();
 			} catch (e) {
-				alert(e);
+				//alert(e);
 			}
 	  });
 </script>
