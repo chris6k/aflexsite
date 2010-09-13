@@ -26,7 +26,7 @@ body {
   style="position:absolute;background-color:transparent;border:0px;display:none;" ></iframe> 
   
 <div id="googleMap"
-  style="position:absolute;background-color:transparent;border:0px;width:236px;height:208px;display:none;" >
+  style="position:absolute;background-color:transparent;border:0px;width:100%;height:100%;display:none;" >
 </div>
 
   
@@ -46,7 +46,7 @@ body {
 
 	var so = new SWFObject('index.swf', 'Flash1', '100%', '100%', "8",'#FFFFFF');
 	so.addParam('menu', 'false');
-	so.addParam('scale', 'exactfit');//exactfit
+	so.addParam('scale', 'default');//exactfit
 	so.addParam('salign', 'top');
 	so.addParam('align', 'left');
 	so.addParam("wmode","transparent");
@@ -66,11 +66,13 @@ body {
      var defaultHeight = 613;
       
      function adjustOffset(){
-        var offset = {width:defaultWidth,height:defaultHeight};
+        var offset = {width:defaultWidth,height:defaultHeight,leftOffset:0};
         var currentHeight = document.body.clientHeight;
         var currentWidth = document.body.clientWidth;
-        offset.width = currentWidth/offset.width;
-        offset.height = currentHeight/offset.height;
+		var scale = currentHeight/offset.height;
+        offset.width = scale;
+        offset.height = scale;
+		offset.leftOffset = (currentWidth - defaultWidth*scale)/2 ||0;
         return offset;
      }
 
@@ -84,7 +86,8 @@ body {
 	 function resizeIFrame() {
 	     var frameRef=$("#myFrame");
 		 var offset = adjustOffset();
-		 frameRef.css('left', (iframeSrcLeft * offset.width));  
+		 var leftOffset = 
+		 frameRef.css('left', (iframeSrcLeft * offset.width + offset.leftOffset));  
          frameRef.css('top', (iframeSrcTop * offset.height));  
          frameRef.css('width', (iframeSrcWidth * offset.width));  
          frameRef.css('height', (iframeSrcHeight * offset.height));  
@@ -95,7 +98,7 @@ body {
 		 initIFrame(x,y,w,h);
          var frameRef=$("#myFrame");
          var offset = adjustOffset();
-         frameRef.css('left', (x * offset.width));  
+         frameRef.css('left', (x * offset.width + offset.leftOffset));  
          frameRef.css('top', (y * offset.height));  
          frameRef.css('width', (w * offset.width));  
          frameRef.css('height', (h * offset.height)); 
@@ -124,7 +127,7 @@ body {
 		 initMap(x,y,w,h);
          var frameRef=$("#googleMap"); 
 		 var offset = adjustOffset();
-         frameRef.css('left', (x * offset.width));  
+         frameRef.css('left', (x * offset.width + offset.leftOffset));  
          frameRef.css('top', (y * offset.height));  
          frameRef.css('width', (w * offset.width));  
          frameRef.css('height', (h * offset.height));  
@@ -134,7 +137,7 @@ body {
 	  function resizeGMAP() {
 	     var frameRef=$("#googleMap"); 
 		 var offset = adjustOffset();
-		 frameRef.css('left', (gmapSrcLeft * offset.width));  
+		 frameRef.css('left', (gmapSrcLeft * offset.width + offset.leftOffset));  
          frameRef.css('top', (gmapSrcTop * offset.height));  
          frameRef.css('width', (gmapSrcWidth * offset.width));  
          frameRef.css('height', (gmapSrcHeight * offset.height));  
@@ -162,8 +165,10 @@ body {
 
 	  $(window).resize(function(){
 			try{
+			setTimeout(function(){
 			resizeIFrame();
 			resizeGMAP();
+			},500);
 			} catch (e) {
 				//alert(e);
 			}
