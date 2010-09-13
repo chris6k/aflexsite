@@ -88,7 +88,11 @@ body {
 		 var offset = adjustOffset();
 		 var leftOffset = 
 		 frameRef.css('left', (iframeSrcLeft * offset.width + offset.leftOffset));  
-         frameRef.css('top', (iframeSrcTop * offset.height));  
+         if($.browser.msie){
+			 frameRef.css('top',(iframeSrcTop*offset.height  - 2));
+		 }else{
+			 frameRef.css('top', (iframeSrcTop * offset.height));  
+		 } 
          frameRef.css('width', (iframeSrcWidth * offset.width));  
          frameRef.css('height', (iframeSrcHeight * offset.height));  
 	 }
@@ -99,7 +103,11 @@ body {
          var frameRef=$("#myFrame");
          var offset = adjustOffset();
          frameRef.css('left', (x * offset.width + offset.leftOffset));  
-         frameRef.css('top', (y * offset.height));  
+		 if($.browser.msie){
+			 frameRef.css('top',(y*offset.height - 2));
+		 }else{
+			 frameRef.css('top', (y * offset.height));  
+		 }
          frameRef.css('width', (w * offset.width));  
          frameRef.css('height', (h * offset.height)); 
          frameRef.show();
@@ -128,7 +136,11 @@ body {
          var frameRef=$("#googleMap"); 
 		 var offset = adjustOffset();
          frameRef.css('left', (x * offset.width + offset.leftOffset));  
-         frameRef.css('top', (y * offset.height));  
+         if($.browser.msie){
+			 frameRef.css('top',(y*offset.height - 2));
+		 }else{
+			 frameRef.css('top', (y * offset.height));  
+		 }
          frameRef.css('width', (w * offset.width));  
          frameRef.css('height', (h * offset.height));  
          frameRef.show();
@@ -138,7 +150,11 @@ body {
 	     var frameRef=$("#googleMap"); 
 		 var offset = adjustOffset();
 		 frameRef.css('left', (gmapSrcLeft * offset.width + offset.leftOffset));  
-         frameRef.css('top', (gmapSrcTop * offset.height));  
+         if($.browser.msie){
+			 frameRef.css('top',(gmapSrcTop*offset.height - 2));
+		 }else{
+			 frameRef.css('top', (gmapSrcTop * offset.height));  
+		 } 
          frameRef.css('width', (gmapSrcWidth * offset.width));  
          frameRef.css('height', (gmapSrcHeight * offset.height));  
 	 }
