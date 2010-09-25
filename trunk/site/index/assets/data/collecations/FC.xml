@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<folio displayNum="11">
+	<image>
+		<thumbnail>assets/img/collecations/FC/small/FC-1.jpg</thumbnail>
+		<pic>assets/img/collecations/FC/big/FC-1.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/FC/small/FC-2.jpg</thumbnail>
+		<pic>assets/img/collecations/FC/big/FC-2.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/FC/small/FC-3.jpg</thumbnail>
+		<pic>assets/img/collecations/FC/big/FC-3.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/FC/small/FC-4.jpg</thumbnail>
+		<pic>assets/img/collecations/FC/big/FC-4.jpg</pic>
+	</image>
+</folio>
