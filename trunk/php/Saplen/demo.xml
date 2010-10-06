@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<location>
+<node>
+	<name>kun</name>
+	<gender>boy</gender>
+	<age>26</age>
+</node>
+<node>
+	<name>jie</name>
+	<gender>boy</gender>
+	<age>26</age>
+</node>
+<node>
+	<name>zhang</name>
+	<gender>boy</gender>
+	<age>26</age>
+</node>
+<node>
+	<name>xue</name>
+	<gender>boy</gender>
+	<age>26</age>
+</node>
+</location>
