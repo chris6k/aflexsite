@@ -1,21 +1,123 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <folio>
 	<area>
+		<city>辽宁</city>
+		<city>沈阳</city>
+		<city>葫芦岛</city>
+		<city>鞍山</city>
+		<city>哈尔滨</city>
+		<city>长春</city>
+	</area>
+	<area>
+		<city>内蒙古</city>
+		<city>呼和浩特</city>		
+	</area>
+	<area>
+		<city>山东</city>
+		<city>潍坊</city>
+		<city>枣庄</city>
+		<city>济南</city>
+	</area>
+	<area>
+		<city>河北</city>
+		<city>石家庄</city>
+		<city>保定</city>
+	</area>
+	<area>
+		<city>陕西</city>
+		<city>西安</city>		
+	</area>
+	<area>
+		<city>陕西</city>
+		<city>青海</city>		
+	</area>
+	<area>
+		<city>新疆</city>
+		<city>乌鲁木齐</city>		
+	</area>
+	<area>
 		<city>上海</city>
 		<city>上海</city>		
 	</area>
 	<area>
-		<city>辽宁</city>
-		<city>大连</city>
-		<city>沈阳</city>
+		<city>浙江</city>
+		<city>镇海</city>
+		<city>宁波</city>	
+		<city>余姚</city>
+		<city>慈溪</city>	
+		<city>定海</city>
+		<city>路桥</city>	
+		<city>玉环</city>
+		<city>嘉兴</city>	
+		<city>桐乡</city>
+		<city>绍兴</city>	
+		<city>上虞</city>
+		<city>诸暨</city>	
+		<city>湖州</city>
+		<city>仙岩</city>	
+		<city>虹桥</city>
+		<city>罗阳</city>	
+		<city>上塘</city>
+		<city>龙港</city>	
+		<city>瑞安</city>
+		<city>塘下</city>	
+		<city>乐清</city>
+		<city>莘塍</city>	
+		<city>青田</city>
+		<city>义乌</city>	
+	</area>	
+	<area>
+		<city>福建</city>
+		<city>泉州</city>		
+	</area>
+	<area>
+		<city>江西</city>
+		<city>九江</city>		
+	</area>
+	<area>
+		<city>江苏</city>
+		<city>扬州</city>
+		<city>常州</city>
+		<city>常熟</city>
+		<city>昆山</city>
+	</area>
+	<area>
+		<city>安徽</city>
+		<city>合肥</city>
+		<city>阜阳</city>
+	</area>
+	<area>
+		<city>河南</city>
+		<city>安阳</city>		
+	</area>
+	<area>
+		<city>湖北</city>
+		<city>武汉</city>
+		<city>宜昌</city>
+	</area>
+	<area>
+		<city>广东</city>
+		<city>东莞</city>
+		<city>汕头</city>
+	</area>
+	<area>
+		<city>海南</city>
+		<city>海口</city>		
+	</area>
+	<area>
+		<city>广西</city>
+		<city>桂林</city>		
 	</area>
 	<area>
 		<city>四川</city>
-		<city>重庆</city>
+		<city>成都</city>		
 	</area>
 	<area>
-		<city>浙江</city>
-		<city>温州</city>
-		<city>义乌</city>	
-	</area>	
+		<city>云南</city>
+		<city>昆明</city>		
+	</area>
+	<area>
+		<city>贵州</city>
+		<city>遵义</city>		
+	</area>
 </folio>
