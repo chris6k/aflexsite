@@ -1,51 +1,191 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <folio displayNum="11">
 	<image>
-		<thumbnail>assets/img/collecations/F/small/F-01.jpg</thumbnail>
-		<pic>assets/img/collecations/F/big/F-01.jpg</pic>
+		<thumbnail>assets/img/collecations/F/small/spring14S01.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring14L.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>assets/img/collecations/F/small/F-02.jpg</thumbnail>
-		<pic>assets/img/collecations/F/big/F-02.jpg</pic>
+		<thumbnail>assets/img/collecations/F/small/spring14S02.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring14L.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>assets/img/collecations/F/small/F-03.jpg</thumbnail>
-		<pic>assets/img/collecations/F/big/F-03.jpg</pic>
+		<thumbnail>assets/img/collecations/F/small/spring14S03.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring14L.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>assets/img/collecations/F/small/F-04.jpg</thumbnail>
-		<pic>assets/img/collecations/F/big/F-04.jpg</pic>
+		<thumbnail>assets/img/collecations/F/small/spring14S04.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring14L.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>assets/img/collecations/F/small/F-05.jpg</thumbnail>
-		<pic>assets/img/collecations/F/big/F-05.jpg</pic>
+		<thumbnail>assets/img/collecations/F/small/spring14S05.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring14L.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>assets/img/collecations/F/small/F-06.jpg</thumbnail>
-		<pic>assets/img/collecations/F/big/F-06.jpg</pic>
+		<thumbnail>assets/img/collecations/F/small/spring14S06.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring14L.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>assets/img/collecations/F/small/F-07.jpg</thumbnail>
-		<pic>assets/img/collecations/F/big/F-07.jpg</pic>
+		<thumbnail>assets/img/collecations/F/small/spring14S07.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring14L.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>assets/img/collecations/F/small/F-08.jpg</thumbnail>
-		<pic>assets/img/collecations/F/big/F-08.jpg</pic>
+		<thumbnail>assets/img/collecations/F/small/spring14S08.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring14L.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>assets/img/collecations/F/small/F-09.jpg</thumbnail>
-		<pic>assets/img/collecations/F/big/F-09.jpg</pic>
+		<thumbnail>assets/img/collecations/F/small/spring14S09.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring14L.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>assets/img/collecations/F/small/F-10.jpg</thumbnail>
-		<pic>assets/img/collecations/F/big/F-10.jpg</pic>
+		<thumbnail>assets/img/collecations/F/small/spring14S10.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring14L.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>assets/img/collecations/F/small/F-11.jpg</thumbnail>
-		<pic>assets/img/collecations/F/big/F-11.jpg</pic>
+		<thumbnail>assets/img/collecations/F/small/spring14S11.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring14L.jpg</pic>
 	</image>
 	<image>
-		<thumbnail>assets/img/collecations/F/small/F-12.jpg</thumbnail>
-		<pic>assets/img/collecations/F/big/F-12.jpg</pic>
+		<thumbnail>assets/img/collecations/F/small/spring14S12.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring14L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring14S13.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring14L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring15S01.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring15L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring15S02.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring15L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring15S03.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring15L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring15S04.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring15L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring15S05.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring15L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring15S06.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring15L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring15S07.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring15L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring15S08.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring15L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring15S09.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring15L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring15S10.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring15L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring15S11.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring15L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring15S12.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring15L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring15S13.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring15L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring15S14.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring15L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring15S15.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring15L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring17S01.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring17L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring17S02.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring17L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring17S03.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring17L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring17S04.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring17L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring17S05.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring17L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring17S06.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring17L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring17S07.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring17L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring17S08.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring17L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring17S09.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring17L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring17S10.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring17L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring17S11.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring17L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring17S12.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring17L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring17S13.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring17L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring17S14.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring17L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring17S15.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring17L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring17S16.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring17L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring17S17.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring17L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring17S18.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring17L.jpg</pic>
+	</image>
+	<image>
+		<thumbnail>assets/img/collecations/F/small/spring17S19.jpg</thumbnail>
+		<pic>assets/img/collecations/F/big/spring17L.jpg</pic>
 	</image>
 </folio>
