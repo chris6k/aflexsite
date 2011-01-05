@@ -36,7 +36,7 @@
 		<area>哈尔滨</area>
 		<name>黑龙江店</name>
 		<adress>黑龙江省哈尔滨市南岗区邮政街105号江南国际公寓1610室</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -44,7 +44,7 @@
 		<area>长春</area>
 		<name>吉林店</name>
 		<adress>吉林省长春市南关区东三道街138号人之初孕婴</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -52,7 +52,7 @@
 		<area>呼和浩特</area>
 		<name>呼和浩特店</name>
 		<adress>呼和浩特市大学东路蒙吉利小区5号楼1607号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/Huhehaote IMG_0363_S.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -68,15 +68,15 @@
 		<area>枣庄</area>
 		<name>山东枣庄店</name>
 		<adress>山东省枣庄市市中区文化东路仙娉莱专卖店</adress>
-		<tel></tel>
-		<pic>assets/img/store locator/small/store1.jpg</pic>
-		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
+		<tel>暂无</tel>
+		<pic>assets/img/store locator/small/zaozhuangDSC_2602_012_S.jpg</pic>
+		<pic_l>assets/img/store locator/big/zaozhuangDSC_2602_012_L.jpg</pic_l>
 	</store>
 	<store>
 		<area>济南</area>
 		<name>山东济南店</name>
 		<adress>山东省济南市建国小经三路（妇幼保健院对面）</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/JinanIMG_0010_S.jpg</pic>
 		<pic_l>assets/img/store locator/big/JinanIMG_0010_L.jpg</pic_l>
 	</store>
@@ -84,7 +84,7 @@
 		<area>石家庄</area>
 		<name>石家庄店</name>
 		<adress>河北省石家庄市裕华区裕华东路106-1万隆国际2号楼1公寓1213室</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -92,7 +92,7 @@
 		<area>保定</area>
 		<name>河北保定店</name>
 		<adress>河北省保定市北市区莲池南大街141号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/Baoding 012_S.jpg</pic>
 		<pic_l>assets/img/store locator/big/Baoding 012_L.jpg</pic_l>
 	</store>
@@ -100,7 +100,7 @@
 		<area>西安</area>
 		<name>西安西大街店</name>
 		<adress>西安市新城区后宅门81号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -108,7 +108,7 @@
 		<area>西宁</area>
 		<name>西宁店</name>
 		<adress>青海省西宁市城西区五四大街微波巷2号逸鸿大厦一楼</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -116,7 +116,7 @@
 		<area>乌鲁木齐</area>
 		<name>乌鲁木齐店</name>
 		<adress>新疆乌鲁木齐前塘江路428号国贸大厦A座17楼01室</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -140,7 +140,7 @@
 		<area>上海</area>
 		<name>上海长乐店</name>
 		<adress>上海市长乐路333号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -148,7 +148,7 @@
 		<area>上海</area>
 		<name>上海红房子店</name>
 		<adress>上海市黄浦区大林路364号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/Hongfangzi SNV10971_S.jpg</pic>
 		<pic_l>assets/img/store locator/big/Hongfangzi SNV10971_L.jpg</pic_l>
 	</store>
@@ -156,7 +156,7 @@
 		<area>萧山</area>
 		<name>萧山萧然店</name>
 		<adress>萧山市心南路301号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -164,7 +164,7 @@
 		<area>富阳</area>
 		<name>富阳店</name>
 		<adress>富阳市蒲西路55-1号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -172,7 +172,7 @@
 		<area>镇海</area>
 		<name>宁波镇海店</name>
 		<adress>宁波市镇海西长营弄75号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -180,7 +180,7 @@
 		<area>宁波</area>
 		<name>宁波江东店</name>
 		<adress>宁波市江东百丈路58号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -188,7 +188,7 @@
 		<area>余姚</area>
 		<name>余姚店</name>
 		<adress>浙江省余姚市大黄桥路24-26号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -196,7 +196,7 @@
 		<area>慈溪</area>
 		<name>慈溪店</name>
 		<adress>慈溪市浒山镇孙塘路439号妇幼侧面</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/Cixi100_4439_S.jpg</pic>
 		<pic_l>assets/img/store locator/big/Cixi100_4439_L.jpg</pic_l>
 	</store>
@@ -204,7 +204,7 @@
 		<area>定海</area>
 		<name>舟山人民店</name>
 		<adress>舟山市定海环城东路80弄43号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -212,7 +212,7 @@
 		<area>路桥</area>
 		<name>路桥文昌店</name>
 		<adress>路桥区文昌路268-270号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/LuqiaoIMG_0432_S.jpg</pic>
 		<pic_l>assets/img/store locator/big/LuqiaoIMG_0432_L.jpg</pic_l>
 	</store>
@@ -220,7 +220,7 @@
 		<area>玉环</area>
 		<name>玉环珠港店</name>
 		<adress>浙江省台州市玉环县珠城东路74号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -228,14 +228,14 @@
 		<area>玉环</area>
 		<name>玉环永乐店</name>
 		<adress>浙江省台州市玉环县永乐巷46号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store><store>
 		<area>嘉兴</area>
 		<name>嘉兴椿树店</name>
 		<adress>浙江省嘉兴市椿树弄64号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -243,7 +243,7 @@
 		<area>桐乡</area>
 		<name>桐乡店</name>
 		<adress>桐乡市迎凤路19-21号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -251,7 +251,7 @@
 		<area>绍兴</area>
 		<name>绍兴店</name>
 		<adress>浙江省绍兴市越城区中兴中路141号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -259,7 +259,7 @@
 		<area>上虞</area>
 		<name>上虞青春店</name>
 		<adress>上虞市百官新建路132号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -267,7 +267,7 @@
 		<area>诸暨</area>
 		<name>诸暨店</name>
 		<adress>浙江省诸暨市健康路50号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -275,7 +275,7 @@
 		<area>湖州</area>
 		<name>湖州店</name>
 		<adress>浙江省湖州市苕溪西路312号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -283,7 +283,7 @@
 		<area>仙岩</area>
 		<name>仙岩繁荣店</name>
 		<adress>温州市瓯海区仙岩镇河口塘繁荣中路5号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -291,7 +291,7 @@
 		<area>乐清</area>
 		<name>乐清虹桥店</name>
 		<adress>乐清市虹桥镇名品街A-76号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -299,7 +299,7 @@
 		<area>罗阳</area>
 		<name>泰顺罗阳店</name>
 		<adress>泰顺县罗阳镇广场路11号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -307,7 +307,7 @@
 		<area>上塘</area>
 		<name>上塘环城店</name>
 		<adress>浙江省永嘉上塘镇环城西路534号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -315,7 +315,7 @@
 		<area>龙港</area>
 		<name>龙港店</name>
 		<adress>龙港购物中心26号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -323,7 +323,7 @@
 		<area>瑞安</area>
 		<name>瑞安解放店</name>
 		<adress>瑞安市解放路4号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -331,7 +331,7 @@
 		<area>塘下</area>
 		<name>瑞安塘下</name>
 		<adress>瑞安塘下镇建设路197号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -339,7 +339,7 @@
 		<area>乐清</area>
 		<name>乐清文虹店</name>
 		<adress>乐清市文虹路21号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -347,7 +347,7 @@
 		<area>乐清</area>
 		<name>乐清时代店</name>
 		<adress>乐清清远路121号时代广场购物中心2楼</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -355,7 +355,7 @@
 		<area>莘塍</area>
 		<name>莘塍镇东店</name>
 		<adress>温州市莘塍镇民莘东路1-5号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -363,7 +363,7 @@
 		<area>诸暨</area>
 		<name>诸暨店</name>
 		<adress>浙江省诸暨市健康路50号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -371,7 +371,7 @@
 		<area>青田</area>
 		<name>青田少年宫店</name>
 		<adress>浙江省青田县少年宫路86-88号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -379,7 +379,7 @@
 		<area>义乌</area>
 		<name>义乌店</name>
 		<adress>义乌市南门街357号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -387,7 +387,7 @@
 		<area>泉州</area>
 		<name>泉州店</name>
 		<adress>福建省泉州市丰泽区宝州路阳泉花苑A栋703室</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -395,7 +395,7 @@
 		<area>九江</area>
 		<name>江西九江店</name>
 		<adress>江西省九江市甘棠南路46号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -403,7 +403,7 @@
 		<area>扬州</area>
 		<name>扬州国庆店</name>
 		<adress>江苏省扬州市国庆路395-6号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -411,7 +411,7 @@
 		<area>扬州</area>
 		<name>扬州店</name>
 		<adress>江苏省扬州市国庆路450号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -419,7 +419,7 @@
 		<area>无锡</area>
 		<name>无锡店</name>
 		<adress>无锡槐树巷21号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -427,7 +427,7 @@
 		<area>常州</area>
 		<name>常州店</name>
 		<adress>常州市晋陵中路212号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/Changzhou_S.jpg</pic>
 		<pic_l>assets/img/store locator/big/Changzhou_L.jpg</pic_l>
 	</store>
@@ -435,7 +435,7 @@
 		<area>常熟</area>
 		<name>常熟店</name>
 		<adress>常熟方塔苑塔弄4号楼5号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -443,7 +443,7 @@
 		<area>昆山</area>
 		<name>昆山同丰店</name>
 		<adress>江苏省昆山市同丰西路377号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -451,7 +451,7 @@
 		<area>合肥</area>
 		<name>合肥店</name>
 		<adress>合肥市桐城路203号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -459,7 +459,7 @@
 		<area>阜阳</area>
 		<name>安徽阜阳店</name>
 		<adress>安徽阜阳鼓楼广场南侧中国银行东侧</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -467,7 +467,7 @@
 		<area>安阳</area>
 		<name>河南安阳店</name>
 		<adress>河南安阳市解放大道拱辰广场一楼</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -475,7 +475,7 @@
 		<area>武汉</area>
 		<name>武汉万松店</name>
 		<adress>湖北武汉汉口区万松园路157号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -483,7 +483,7 @@
 		<area>宜昌</area>
 		<name>湖北宜昌店</name>
 		<adress>宜昌国贸东山大道161号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -491,7 +491,7 @@
 		<area>东莞</area>
 		<name>东莞虎门店</name>
 		<adress>广东省东莞市虎汀镇港口路能源华庄首层地铺宝贝屋</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -499,7 +499,7 @@
 		<area>汕头</area>
 		<name>汕头衡山路店</name>
 		<adress>广东省汕头市衡山路龙涛花园A27铺面</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -507,7 +507,7 @@
 		<area>海口</area>
 		<name>海口林莉店</name>
 		<adress>海南省海口市海秀路6号明珠广场三楼</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -515,7 +515,7 @@
 		<area>桂林</area>
 		<name>桂林中山路店</name>
 		<adress>广西桂林市中山路文化大厦3楼302室</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -523,7 +523,7 @@
 		<area>成都</area>
 		<name>成都四川店</name>
 		<adress>成都市金牛区梁家巷南玻大厦B座1703</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -531,7 +531,7 @@
 		<area>昆明</area>
 		<name>云南店</name>
 		<adress>云南省昆明市新螺蛳湾国际商贸城B区5楼59号</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
@@ -539,7 +539,7 @@
 		<area>遵义</area>
 		<name>遵义新华路店</name>
 		<adress>遵义市红花岗区新华路飞天商业街金牛店</adress>
-		<tel></tel>
+		<tel>暂无</tel>
 		<pic>assets/img/store locator/small/store1.jpg</pic>
 		<pic_l>assets/img/store locator/big/Huhehaote IMG_0363_L.jpg</pic_l>
 	</store>
